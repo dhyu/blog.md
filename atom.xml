@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Magnificent Days</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://magnificentdays.com/"/>
+  <updated>2019-03-29T09:49:24.350Z</updated>
+  <id>http://magnificentdays.com/</id>
+  
+  <author>
+    <name>petasus</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://magnificentdays.com/2019/03/28/hello-world/"/>
+    <id>http://magnificentdays.com/2019/03/28/hello-world/</id>
+    <published>2019-03-28T09:36:38.650Z</published>
+    <updated>2019-03-29T09:49:24.350Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;한글.가나다.&lt;a href=&quot;http://&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;링크&lt;/a&gt;&lt;br&gt;abcdefg&lt;br&gt;1234567890&lt;/p&gt;
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
